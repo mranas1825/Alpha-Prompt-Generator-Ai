@@ -1,0 +1,5 @@
+{
+  "name": "Alpha Prompt Generator Ai",
+  "description": "An AI-powered prompt engineering co-pilot. Generate highly detailed and creative prompts for images and videos from a script. Refine your vision by providing text styles or uploading a reference image for the AI to analyze. Generate image, video, and JSON prompts in a sequential, user-controlled workflow.",
+  "requestFramePermissions": []
+}
